@@ -1,0 +1,50 @@
+<mxfile host="Electron" modified="2023-10-18T08:39:50.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="rBnrQGHC4SW8Mb7U6My3" version="22.0.2" type="device">
+  <diagram name="Page-1" id="d98ErJ0vYKwGNBtDg9M0">
+    <mxGraphModel dx="714" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U4Pl62PYveNhxGoC357O-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#007FFF;fontColor=#007FFF;fontFamily=consolas;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;" parent="1" source="__BMbHNxutL3g1jF6pqU-12" target="cRC2ORfMOUSvrJEYKvit-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433.2941176470588" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cRC2ORfMOUSvrJEYKvit-44" value="&lt;div style=&quot;line-height: 130%; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;namaLengkap_07746,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 130%; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;npm_07746,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 130%; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;motivasi_07746;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 130%; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;tinggiTabung_07746,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 130%; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;volumeTabung_07746,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 130%; font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;kelilingSegitiga_07746;&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;fontColor=#007FFF;fontFamily=consolas;opacity=60;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="352.2" y="200" width="162.12" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="__BMbHNxutL3g1jF6pqU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;fontFamily=consolas;fontColor=#007FFF;labelBackgroundColor=default;" edge="1" parent="1" source="cRC2ORfMOUSvrJEYKvit-59" target="__BMbHNxutL3g1jF6pqU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cRC2ORfMOUSvrJEYKvit-59" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;r_07746 = sqrt (volumeTabung_07746 / (phi_07746 * tinggiTabung_07746));&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;&quot;&gt; aT_07746 = r_07746;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; miring_07746 = (kelilingSegitiga_07746 - aT_07746) / 2;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; sA_07746 = aT_07746 /2 ;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; tS_07746 = sqrt (miring_07746 * miring_07746 - sA_07746 * sA_07746);&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; lS_07746 = (aT_07746 * tS_07746 / 2);&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007FFF;fontColor=#007FFF;fontFamily=consolas;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="289.19" y="300" width="287.13" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="cRC2ORfMOUSvrJEYKvit-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;fontColor=#007FFF;fontFamily=consolas;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;" parent="1" source="cRC2ORfMOUSvrJEYKvit-44" target="cRC2ORfMOUSvrJEYKvit-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="431.875" y="540" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="432" y="272" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__BMbHNxutL3g1jF6pqU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;fontFamily=consolas;fontColor=#007FFF;labelBackgroundColor=default;" edge="1" parent="1" source="__BMbHNxutL3g1jF6pqU-1" target="__BMbHNxutL3g1jF6pqU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="__BMbHNxutL3g1jF6pqU-1" value="&lt;font&gt;START&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#007FFF;fontFamily=consolas;fontColor=#007FFF;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="390.39" y="60" width="85.74" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="__BMbHNxutL3g1jF6pqU-2" value="&lt;font&gt;END&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#007FFF;fontFamily=consolas;fontColor=#007FFF;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="397.75" y="540" width="70" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="__BMbHNxutL3g1jF6pqU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;fontFamily=consolas;fontColor=#007FFF;labelBackgroundColor=default;" edge="1" parent="1" source="__BMbHNxutL3g1jF6pqU-6" target="__BMbHNxutL3g1jF6pqU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="__BMbHNxutL3g1jF6pqU-6" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); line-height: 10.4px; font-size: 8px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;namaLengkap_07746,&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;npm_07746,&lt;/span&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;motivasi_07746;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); line-height: 10.4px; font-size: 8px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;tinggiTabung_07746,&lt;/font&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;volumeTabung_07746,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); line-height: 10.4px; font-size: 8px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;kelilingSegitiga_07746, aT_07746, miring_07746, &lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); line-height: 10.4px; font-size: 8px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;tS_07746, lS_07746&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;fontColor=#007FFF;fontFamily=consolas;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="315.84" y="450" width="234.84" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="__BMbHNxutL3g1jF6pqU-12" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font&gt;Phi_07746= 3.14&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;fontFamily=consolas;fontColor=#007FFF;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="140" width="90.5" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

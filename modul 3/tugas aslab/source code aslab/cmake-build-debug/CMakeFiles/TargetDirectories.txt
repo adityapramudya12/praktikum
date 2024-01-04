@@ -1,0 +1,3 @@
+C:/Users/anindita/OneDrive/Documents/praktikum/modul 3/tugas aslab/source code aslab/cmake-build-debug/CMakeFiles/untitled10.dir
+C:/Users/anindita/OneDrive/Documents/praktikum/modul 3/tugas aslab/source code aslab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anindita/OneDrive/Documents/praktikum/modul 3/tugas aslab/source code aslab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
