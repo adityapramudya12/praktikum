@@ -1,0 +1,3 @@
+C:/Users/anindita/CLionProjects/tiket final/cmake-build-debug/CMakeFiles/tiket.dir
+C:/Users/anindita/CLionProjects/tiket final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anindita/CLionProjects/tiket final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
